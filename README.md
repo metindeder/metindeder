@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">Hello, I am Metin Deder <br>🤓 I am a curious developer.<br>🧑‍💻 I am a first year student at Siirt University computer engineering<br>⚡I have a passion for open source development <br>🌱enjoy creating projects inspired by existing projects while exploring emerging technologies.</p>
+<p align="left">Hello, I am Metin Deder <br>🤓 I am a curious developer.<br>🧑‍💻 I am a Third year student at Fırat University computer engineering<br>⚡I have a passion for open source development <br>🌱enjoy creating projects inspired by existing projects while exploring emerging technologies.</p>
 
 ###
 
